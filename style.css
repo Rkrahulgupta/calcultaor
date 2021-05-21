@@ -1,0 +1,27 @@
+.container{
+    text-align: center;
+    background: linear-gradient( crimson, black);
+}
+h1{
+    font-size: 50px;
+    color:black;
+}
+h1 span{
+    color: #ffff;
+}
+table{
+    margin: auto;
+}
+input{
+    height: 50px;
+    font-size: 25px;
+    margin-top: 20px;
+    margin-bottom: 10px;
+    border-radius: 16px;
+}
+button{
+    border-radius: 18px;
+    font-size: 38px;
+    width: 75px;
+    height: 70px;
+}
